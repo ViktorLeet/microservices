@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="57" viewBox="0 0 300 57">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+      font-size: 41.667px;
+      }
+
+      .cls-1 {
+      font-family: "MV Boli";
+      }
+
+      .cls-2 {
+      fill: red;
+      }
+
+      .cls-3 {
+      font-family: "Liberation Mono";
+      font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="MIKROSHOP" class="cls-1" x="17" y="42"><tspan class="cls-2">MIKRO</tspan><tspan class="cls-3">SHOP</tspan></text>
+</svg>
